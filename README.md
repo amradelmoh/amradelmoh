@@ -1,15 +1,15 @@
 Hi 👋 My name is Amr Adel
 =========================
 
-Front end Developer
+Junior Data Engineer
 -------------------
 
-Creative developer who's passionate about building digital experiences. I am passionate, creative, and always striving to do better job, but I am also someone who can constantly improve his abilities.
+In search of a job in data management, data engineering, or a related profession. Really driven to further my career and always improve my abilities. 
+I have faith in my capacity to think of new accomplishments.
 
 * 🌍  I'm based in Cairo - Egypt
-* 🖥️  See my portfolio at [My Portfolio](http://amradelmoh.github.io/)
 * ✉️  You can contact me at [amradellmoh@gmail.com](mailto:amradellmoh@gmail.com)
-* 🧠  I'm learning ReactJs Framework.
+* 🧠  I'm learning Data Engineering.
 * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  They say I'm good at FIFA. 🤷‍♂️
 
